@@ -13,8 +13,8 @@ namespace ConsoleApp1
 
             string saludo = "";
 
-            Console.WriteLine("Hola, soy la primera version");
-            Console.WriteLine("Ingrese un saludo");
+            Console.WriteLine("Hola, soy la segunda version");
+            Console.WriteLine("Ingrese una Despedida");
             saludo = Console.ReadLine();
 
 
